@@ -1,0 +1,44 @@
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.line{
+    height:6px;
+    width:100px;
+    background-color:black;
+    margin:8px auto;
+  }
+
+#choose{
+    border-radius: 75px;
+    height: 50px;
+    width: 175px;
+    font-size: 20px;
+    background: url("https://marble.com/uploads/materials/101/1280X720/marble_Calacatta-Borghini_LHOcwv5aOZW3cKeSct8X.jpg");
+}
+#head_1{
+    color: aliceblue;
+}
+
+.back{
+    align-content: right;
+}
